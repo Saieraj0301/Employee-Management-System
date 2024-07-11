@@ -1,2 +1,12 @@
 # Employee-Management-System
-This Java-based Employee Management System uses OOP principles to offer a Text User Interface (TUI) with four main operations: Add, Remove, Update, and View User details. Designed for simplicity and efficiency, it streamlines employee data management, ensuring easy maintenance and smooth operation.
+This repository consists of Java Program for Employee Management System. In this repository I have created a TUI program for Employee Management System which consists of 4 different operation.<br>
+(1) Adding User<br>  (2) Removing User<br> (3) Updating User<br>  (4) Viewing details of User
+
+The Program is completely based on OOPs concept.
+
+<img src="Images/Java.png">
+
+# How to run ?
+For Compliation : <code>javac EmployManagementSystem.java</code>
+
+To Run Program  : <code>java EmployManagementSystem</code>
