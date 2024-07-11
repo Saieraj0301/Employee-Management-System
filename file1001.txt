@@ -1,0 +1,7 @@
+Employee ID:1001
+Employee Name     :Sairaj Pawar
+Father's Name     :Pramod Pawar
+Employee Contact  :123456789
+Email Information :psairaj3393@gmail.com
+Employee position :Jr.Developer
+Employee Salary   :35000
